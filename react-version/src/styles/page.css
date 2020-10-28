@@ -1,0 +1,12 @@
+.page {
+  position: relative;
+  padding: 20px 0 60px 20px;
+  grid-column: 1 / 13;
+  grid-row: 2 / 3;
+  display: grid;
+  grid-gap: 20px;
+}
+
+#page-shop {
+  grid-template-columns: 200px 1fr;
+}

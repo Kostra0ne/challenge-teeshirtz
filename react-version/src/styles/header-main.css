@@ -1,0 +1,13 @@
+#header-main {
+  align-items: center;
+  background: #000000eb;
+  border-bottom-right-radius: 0.2rem;
+  display: flex;
+  grid-column: 1 / 13;
+  height: 80px;
+  justify-content: space-between;
+  padding: 10px 20px;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}

@@ -1,0 +1,10 @@
+#nav-main a {
+  font-weight: bold;
+  color: inherit;
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+#nav-main a.active {
+  color: #0175ff;
+}
